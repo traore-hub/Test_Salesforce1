@@ -6,3 +6,18 @@ nomsearch=nouvelle_tache_test_brahim
 groupesearch=une_nouvelle_modification_groupe
 
 
+/////////////////////////////Test Contact data///////////////////
+contact Identification
+    contact1
+first_name=Fares
+last_name=Ayeche
+Accoun_name=ACME
+   contact 2
+first_name2=Haroun
+last_name2=Ayeche
+
+     Contact
+first_name3=Fares
+last_name3=Ayeche
+
+///////////////////////////////////////////////////////////////
