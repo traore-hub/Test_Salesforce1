@@ -5,7 +5,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions (features="src/test/resources/feature", 
 glue= "stepdef",
-tags= "@tag4",
+tags= "@TestCampagn",
 plugin = {"pretty",
         "html:target/report/cucumber.html",
         "json:target/report/cucumber.json"
